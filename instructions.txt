@@ -1,6 +1,27 @@
 With you partner search the following questions and create a presentation.
+  
 What is SDLC?
+SDLC (System Development Life Cycle) is a process for planning, creating, testing, and deploying an information system to an application in software development. Though is can be appplied to development in general.
+
 What are the stages of SDLC? explain 
+  1) Identify the problem: Find out what the problem is. This would mean to get all input from people you are working with. Identify the strengths and weaknesses of a system.
+  2) Plan: Identify what you want and determine the cost and resources that are needed for implementing the analyzed requirements. In other words, the team should figure out if the plan can be accomplished and the successabiliy rate.
+  3) Design: Figure out how you want to get what you want. It is important to gather input from the team in order to work at achieving a better and more effiecient application. 
+  4) Build: This is where you begin to follow through with your plan and design to create and actual product. It's important to make sure that everyone is onboard with the design and that there are proper guidlines being applied to create the project successfully.
+  5)Test: In this stage, look for defects and deficiencies that can possibly costs lots of money. Fix the product until original specifications are met.
+  6)Software Deployment: At this stage, you publicly announce your product that should be in full working order. You will want to be sure to look for any bugs that are in the final product before releasing. 
+  
+  This process then get's repeated.
+  
 Define five SDLC moldels (methodology).
+1)Waterfall Model: You finish one phase then start the next. Each phase has it's own mini plan that then 'waterfalls' into the next phase.
+2)Agile Model: Separates the product in cycles and delivers work more quickly. Testing each release feeds back into the next version. Heavily based on user feedback.
+3)Iterative Model: Developers create a version very quickly then test and improve through many versions.
+4)Big Bang Model: Most of the resources are put into development and development only.
+5)Spiral Model: Ephasises on going through the SDLC multiple times and improve each go around.
+
 Take one of the SDLC models and explain the implementation process.
+Big Bang Model is mainly implimented into smaller projects that are more focused on the development process rather than anything else. This can be applied for a very simple app that is going to be used for personal use.
+
 Describe how to apply SDLC model in the version control App.
+The SDLC is applied to the version control app through every single process that we had to go to in order to create the app. It wasn't necessarily a giant project, but it did undergo the design, plan, build, and test stages. 
